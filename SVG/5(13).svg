@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g>
+	<path fill="#F2F2F2" d="M470.3,31.7H41.7c-11.6,0-21.2,9.4-21.2,21.2v435.9c0,11.6,9.5,21.2,21.2,21.2h428.6
+		c11.6,0,21.2-9.5,21.2-21.2V52.9C491.5,41.2,482,31.7,470.3,31.7z"/>
+	<path fill="#CDD5DF" d="M491.5,479.4v9.4c0,11.6-9.5,21.2-21.2,21.2H41.7c-11.6,0-21.2-9.5-21.2-21.2v-9.4H491.5z"/>
+	<rect x="64.1" y="274.7" fill="#41596B" width="151.5" height="235.3"/>
+	<rect x="80.4" y="291.8" fill="#89D6F7" width="117.7" height="125.9"/>
+	<rect x="259.1" y="278.3" fill="#FFFFFF" width="189.7" height="121.7"/>
+	<rect x="275.4" y="295.3" fill="#89D6F7" width="155.8" height="87.8"/>
+	<polygon fill="#F2705B" points="19.7,85 2,151.6 74.6,151.6 87.2,85 	"/>
+	<polygon fill="#FFFFFF" points="87.2,85 74.6,151.6 147.1,151.6 154.7,85 	"/>
+	<polygon fill="#F2705B" points="154.7,85 147.1,151.6 219.7,151.6 222.3,85 	"/>
+	<polygon fill="#FFFFFF" points="222.2,85 219.7,151.6 292.3,151.6 289.8,85 	"/>
+	<polygon fill="#F2705B" points="289.7,85 292.3,151.6 364.9,151.6 357.3,85 	"/>
+	<polygon fill="#FFFFFF" points="357.3,85 364.9,151.6 437.4,151.6 424.8,85 	"/>
+	<g>
+		<path fill="#CDD5DF" d="M74.6,191.8c0,20,16.2,36.3,36.3,36.3c20,0,36.3-16.2,36.3-36.3v-40.2H74.6V191.8z"/>
+		<path fill="#CDD5DF" d="M219.7,191.8c0,20,16.2,36.3,36.3,36.3c20,0,36.3-16.2,36.3-36.3v-40.2h-72.6V191.8z"/>
+		<path fill="#CDD5DF" d="M364.9,151.6v40.2c0,20,16.2,36.3,36.3,36.3c20,0,36.3-16.2,36.3-36.3v-40.2H364.9z"/>
+	</g>
+	<polygon fill="#F2705B" points="424.8,85 437.4,151.6 510,151.6 492.3,85 	"/>
+	<g>
+		<path fill="#F05540" d="M2,191.8c0,20,16.2,36.3,36.3,36.3c20,0,36.3-16.2,36.3-36.3v-40.2H2V191.8z"/>
+		<path fill="#F05540" d="M147.1,191.8c0,20,16.2,36.3,36.3,36.3c20,0,36.3-16.2,36.3-36.3v-40.2h-72.6V191.8z"/>
+		<path fill="#F05540" d="M292.3,191.8c0,20,16.2,36.3,36.3,36.3c20,0,36.3-16.2,36.3-36.3v-40.2h-72.6V191.8z"/>
+		<path fill="#F05540" d="M437.4,151.6v40.2c0,20,16.2,36.3,36.3,36.3c20,0,36.3-16.2,36.3-36.3v-40.2H437.4z"/>
+	</g>
+	<rect x="83.8" y="2" fill="#FFD05C" width="344.4" height="59.4"/>
+</g>
+</svg>

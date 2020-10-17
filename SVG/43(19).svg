@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<path fill="#FF7058" d="M46,48H2c-1.1,0-2-0.9-2-2V2c0-1.1,0.9-2,2-2h44c1.1,0,2,0.9,2,2v44C48,47.1,47.1,48,46,48z"/>
+	<rect x="2.5" y="11.6" fill="#FFFFFF" width="43" height="33.9"/>
+	<circle fill="#FFD15C" cx="4.4" cy="5.8" r="1.9"/>
+	<circle fill="#F2F2F2" cx="10.6" cy="5.8" r="1.9"/>
+	<circle fill="#84DBFF" cx="16.7" cy="5.8" r="1.9"/>
+	<polygon fill="#CDD6E0" points="10.9,21 10.9,36.1 24,43.7 24,13.4 	"/>
+	<polygon fill="#F2F2F2" points="24,13.4 24,43.7 37.1,36.1 37.1,21 	"/>
+	<polygon fill="#4CDBC4" points="10.9,21 24,13.4 37.1,21 37.1,21 24,28.5 10.9,21 	"/>
+	<polygon fill="#FFD15C" points="30.6,32.3 30.6,24.7 24,21 24,36.1 	"/>
+	<polygon fill="#F8B64C" points="24,36.1 24,21 17.4,24.7 17.4,32.3 	"/>
+	<polygon fill="#40596B" points="30.6,32.3 24,36.1 17.4,32.3 17.4,32.3 24,28.5 30.6,32.3 	"/>
+	<path fill="#FFFFFF" d="M43.6,7.7H29.2c-1.1,0-1.9-0.9-1.9-1.9v0c0-1.1,0.9-1.9,1.9-1.9h14.4c1.1,0,1.9,0.9,1.9,1.9v0
+		C45.5,6.8,44.6,7.7,43.6,7.7z"/>
+</g>
+</svg>

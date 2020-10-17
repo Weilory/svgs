@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<path fill="#F2F2F2" d="M37.3,35H2c-1.1,0-2-0.9-2-2V8.7h39.3V33C39.3,34.1,38.4,35,37.3,35z"/>
+	<path fill="#54C0EB" d="M37.7,0H1.6C0.7,0,0,0.7,0,1.6v7.1h39.3V1.6C39.3,0.7,38.6,0,37.7,0z"/>
+	<rect x="2.8" y="26.7" fill="#CDD6E0" width="5.5" height="5.5"/>
+	<rect x="2.8" y="19.6" fill="#CDD6E0" width="5.5" height="5.5"/>
+	<rect x="9.8" y="12.6" fill="#CDD6E0" width="5.5" height="5.5"/>
+	<rect x="9.8" y="26.7" fill="#CDD6E0" width="5.5" height="5.5"/>
+	<rect x="9.8" y="19.6" fill="#CDD6E0" width="5.5" height="5.5"/>
+	<rect x="16.9" y="12.6" fill="#CDD6E0" width="5.5" height="5.5"/>
+	<rect x="16.9" y="26.7" fill="#CDD6E0" width="5.5" height="5.5"/>
+	<rect x="16.9" y="19.6" fill="#CDD6E0" width="5.5" height="5.5"/>
+	<rect x="24" y="12.6" fill="#CDD6E0" width="5.5" height="5.5"/>
+	<rect x="24" y="26.7" fill="#CDD6E0" width="5.5" height="5.5"/>
+	<rect x="24" y="19.6" fill="#FF7058" width="5.5" height="5.5"/>
+	<rect x="31" y="12.6" fill="#CDD6E0" width="5.5" height="5.5"/>
+	<rect x="31" y="19.6" fill="#CDD6E0" width="5.5" height="5.5"/>
+	<g>
+		<circle fill="#FFFFFF" cx="10.7" cy="4.4" r="1.4"/>
+		<circle fill="#FFFFFF" cx="28.7" cy="4.4" r="1.4"/>
+	</g>
+	<path fill="#CDD6E0" d="M27.7,5.2h-16c-0.5,0-0.9-0.4-0.9-0.9l0,0c0-0.5,0.4-0.9,0.9-0.9h16c0.5,0,0.9,0.4,0.9,0.9l0,0
+		C28.5,4.8,28.1,5.2,27.7,5.2z"/>
+	<circle fill="#40596B" cx="34.6" cy="34.6" r="13.4"/>
+	<path fill="#CDD6E0" d="M34.6,44.4c-5.4,0-9.8-4.4-9.8-9.8s4.4-9.8,9.8-9.8s9.8,4.4,9.8,9.8S40,44.4,34.6,44.4z"/>
+	<path fill="#C3D1DD" d="M34.6,25.8c5.2,0,9.5,4.1,9.8,9.3c0-0.2,0-0.3,0-0.5c0-5.4-4.4-9.8-9.8-9.8s-9.8,4.4-9.8,9.8
+		c0,0.2,0,0.3,0,0.5C25,29.9,29.3,25.8,34.6,25.8z"/>
+	<g>
+		<path fill="#F2F2F2" d="M34.6,25.6c-0.2,0-0.4,0.2-0.4,0.4v1.2c0,0.2,0.2,0.4,0.4,0.4s0.4-0.2,0.4-0.4V26
+			C34.9,25.8,34.8,25.6,34.6,25.6z"/>
+		<path fill="#F2F2F2" d="M34.6,41.5c-0.2,0-0.4,0.2-0.4,0.4v1.2c0,0.2,0.2,0.4,0.4,0.4s0.4-0.2,0.4-0.4v-1.2
+			C34.9,41.7,34.8,41.5,34.6,41.5z"/>
+	</g>
+	<g>
+		<path fill="#F2F2F2" d="M43.5,34.6c0-0.2-0.2-0.4-0.4-0.4h-1.2c-0.2,0-0.4,0.2-0.4,0.4s0.2,0.4,0.4,0.4h1.2
+			C43.3,34.9,43.5,34.8,43.5,34.6z"/>
+		<path fill="#F2F2F2" d="M27.6,34.6c0-0.2-0.2-0.4-0.4-0.4H26c-0.2,0-0.4,0.2-0.4,0.4s0.2,0.4,0.4,0.4h1.2
+			C27.4,34.9,27.6,34.8,27.6,34.6z"/>
+	</g>
+	<g>
+		<path fill="#40596B" d="M34.6,34.9h-4.8c-0.2,0-0.4-0.2-0.4-0.4s0.2-0.4,0.4-0.4h4.5V29c0-0.2,0.2-0.4,0.4-0.4s0.4,0.2,0.4,0.4
+			v5.6C34.9,34.8,34.8,34.9,34.6,34.9z"/>
+	</g>
+	<circle fill="#FF7058" cx="34.6" cy="34.6" r="1.1"/>
+</g>
+</svg>

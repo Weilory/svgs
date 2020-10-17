@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<g>
+				<path fill="#415A6B" d="M18.8,31.2H3.1c-0.9,0-1.6,0.7-1.6,1.6v13h18.9v-13C20.4,31.9,19.6,31.2,18.8,31.2z"/>
+				<rect x="3.1" y="32.8" fill="#8AD7F8" width="15.7" height="11.5"/>
+			</g>
+			<g>
+				<g>
+					<path fill="#E8EAE9" d="M21.9,45.8L21.9,45.8L0,45.8v0C0,47,1,48,2.2,48h17.5C20.9,48,21.9,47,21.9,45.8z"/>
+				</g>
+			</g>
+			<g>
+				<polygon fill="#CED6E0" points="12.8,46.7 9.1,46.7 8.5,45.8 13.4,45.8 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#415A6B" d="M44.9,31.2H29.2c-0.9,0-1.6,0.7-1.6,1.6v13h18.9v-13C46.5,31.9,45.8,31.2,44.9,31.2z"/>
+				<rect x="29.2" y="32.8" fill="#8AD7F8" width="15.7" height="11.5"/>
+			</g>
+			<g>
+				<g>
+					<path fill="#E8EAE9" d="M48,45.8L48,45.8l-21.9,0v0c0,1.2,1,2.2,2.2,2.2h17.5C47,48,48,47,48,45.8z"/>
+				</g>
+			</g>
+			<g>
+				<polygon fill="#CED6E0" points="38.9,46.7 35.2,46.7 34.6,45.8 39.5,45.8 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#415A6B" d="M31.9,0H16.1c-0.9,0-1.6,0.7-1.6,1.6v13h18.9v-13C33.4,0.7,32.7,0,31.9,0z"/>
+				<rect x="16.1" y="1.6" fill="#8AD7F8" width="15.7" height="11.5"/>
+			</g>
+			<g>
+				<g>
+					<path fill="#E8EAE9" d="M34.9,14.6L34.9,14.6l-21.9,0v0c0,1.2,1,2.2,2.2,2.2h17.5C33.9,16.8,34.9,15.8,34.9,14.6z"/>
+				</g>
+			</g>
+			<g>
+				<polygon fill="#CED6E0" points="25.8,15.5 22.2,15.5 21.6,14.6 26.4,14.6 				"/>
+			</g>
+		</g>
+		<path fill="#415A6B" d="M28.4,28l-3.7-3.7v-4.5c0-0.4-0.3-0.7-0.7-0.7h0c-0.4,0-0.7,0.3-0.7,0.7v4.5L19.6,28
+			c-0.3,0.3-0.3,0.8,0,1.1c0.3,0.3,0.8,0.3,1.1,0l3.4-3.4l3.4,3.4c0.3,0.3,0.8,0.3,1.1,0l0,0C28.7,28.7,28.7,28.2,28.4,28z"/>
+	</g>
+</g>
+</svg>

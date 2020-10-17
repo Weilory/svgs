@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<polygon fill="#FF7058" points="12,29.6 12,2 43.7,15.8 			"/>
+		</g>
+		<polygon fill="#F1543F" points="14.8,3.3 14.8,28.4 12,29.6 12,2 		"/>
+		<path fill="#3DC9AE" d="M48,31.4c-3-3-10.7-4.3-13.2-0.9c-3.3,4.5-10,3.7-23.8,4.4c-7.8,0.4-10.3,5.3-11,9.4V48h48V31.4z"/>
+		<ellipse fill="#4CDBC4" cx="14.9" cy="41.8" rx="9.6" ry="3.6"/>
+		<ellipse fill="#40596B" cx="11.2" cy="41.8" rx="3.2" ry="1.2"/>
+		<g>
+			<path fill="#F2F2F2" d="M9.6,1.6v41.2c0.5,0.1,1,0.2,1.6,0.2c0.6,0,1.1-0.1,1.6-0.2V1.6c0-0.9-0.7-1.6-1.6-1.6l0,0
+				C10.3,0,9.6,0.7,9.6,1.6z"/>
+		</g>
+	</g>
+	<circle fill="#FFFFFF" cx="28.8" cy="43.4" r="1.6"/>
+</g>
+</svg>

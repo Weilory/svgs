@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#E8EAE9" d="M24,0c-3.3,0-5.9,2.6-5.9,5.9c0,3.3,2.6,5.9,5.9,5.9s5.9-2.6,5.9-5.9C29.9,2.6,27.3,0,24,0z M24,9
+			c-1.7,0-3.1-1.4-3.1-3.1s1.4-3.1,3.1-3.1c1.7,0,3.1,1.4,3.1,3.1S25.7,9,24,9z"/>
+		<path fill="#435B6C" d="M24,5.9c-1.3,0-2.3,1-2.3,2.3v6h4.7v-6C26.3,7,25.3,5.9,24,5.9z"/>
+		<circle fill="#8BD7F8" cx="24" cy="30.2" r="17.8"/>
+		<g>
+			<circle fill="#FFFFFF" cx="24" cy="30.2" r="14.2"/>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#FFD15D" points="26.2,32.4 21.8,28.1 31.7,22.5 				"/>
+			</g>
+			<g>
+				<polygon fill="#F3705B" points="26.2,32.4 16.3,38 21.8,28.1 				"/>
+			</g>
+		</g>
+		<circle fill="#435B6C" cx="24" cy="30.2" r="3.1"/>
+		<g>
+			<circle fill="#E8EAE9" cx="24" cy="19.3" r="1.1"/>
+		</g>
+		<g>
+			<circle fill="#E8EAE9" cx="13" cy="30.2" r="1.1"/>
+		</g>
+		<g>
+			<circle fill="#E8EAE9" cx="24" cy="41.2" r="1.1"/>
+		</g>
+		<g>
+			<circle fill="#E8EAE9" cx="35" cy="30.2" r="1.1"/>
+		</g>
+	</g>
+</g>
+</svg>

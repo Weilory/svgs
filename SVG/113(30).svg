@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g>
+	<path fill="#F2F2F2" d="M2,75.6v413.2c0,11.7,9.5,21.3,21.3,21.3h452.8c18.7,0,33.9-15.2,33.9-33.9V75.6H2z"/>
+	<rect x="47.2" y="184" fill="#FFFFFF" width="417.6" height="280.8"/>
+	<path fill="#40596B" d="M488.7,2H35.9C17.2,2,2,17.2,2,35.9v39.7h508V23.3C510,11.5,500.5,2,488.7,2z"/>
+	<g>
+		<path fill="#F1543F" d="M103.6,237.6c0,27.9,22.6,50.6,50.6,50.6h0.5c27.9,0,50.6-22.6,50.6-50.6v-39.8H103.6V237.6z"/>
+		<path fill="#F1543F" d="M306.8,197.9v39.8c0,27.9,22.6,50.6,50.6,50.6h0.5c27.9,0,50.6-22.6,50.6-50.6v-39.8H306.8z"/>
+	</g>
+	<g>
+		<path fill="#54C0EB" d="M2,237.6c0,27.9,22.6,50.6,50.6,50.6H53c27.9,0,50.6-22.6,50.6-50.6v-39.8H2V237.6z"/>
+		<path fill="#54C0EB" d="M205.2,237.6c0,27.9,22.6,50.6,50.6,50.6h0.5c27.9,0,50.6-22.6,50.6-50.6v-39.8H205.2V237.6z"/>
+		<path fill="#54C0EB" d="M408.4,197.9v39.8c0,27.9,22.6,50.6,50.6,50.6h0.5c27.9,0,50.6-22.6,50.6-50.6v-39.8H408.4z"/>
+	</g>
+	<polygon fill="#84DBFF" points="103.6,197.9 2,197.9 52.8,121 134.1,121 	"/>
+	<polygon fill="#FF7058" points="205.2,197.9 103.6,197.9 134.1,121 215.4,121 	"/>
+	<polygon fill="#84DBFF" points="306.8,197.9 205.2,197.9 215.4,121 296.6,121 	"/>
+	<polygon fill="#FF7058" points="408.4,197.9 306.8,197.9 296.6,121 377.9,121 	"/>
+	<polygon fill="#84DBFF" points="510,197.9 408.4,197.9 377.9,121 459.2,121 	"/>
+	<rect x="71.5" y="321.9" fill="#FFD15C" width="120.4" height="120.4"/>
+	<circle fill="#CDD6E0" cx="63.6" cy="38.8" r="16.4"/>
+	<circle fill="#FF7058" cx="119.6" cy="38.8" r="16.4"/>
+	<circle fill="#4CDBC4" cx="175.5" cy="38.8" r="16.4"/>
+	<rect x="252.7" y="399.5" fill="#CDD6E0" width="103.5" height="20.4"/>
+	<rect x="252.7" y="344.2" fill="#F2F2F2" width="189.5" height="20.4"/>
+</g>
+</svg>

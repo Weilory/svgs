@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<rect x="3.5" y="13.2" fill="#F3F3F3" width="40.9" height="30.2"/>
+	<rect x="3.5" y="13.2" fill="#E8EAE9" width="40.9" height="2.3"/>
+	<g>
+		<path fill="#415A6B" d="M18.3,35v8.3h11.4V35c0-3.1-2.5-5.7-5.7-5.7h0C20.9,29.3,18.3,31.9,18.3,35z"/>
+		<path fill="#344A5E" d="M20.3,43.3V35c0-2,1.7-3.7,3.7-3.7h0c2,0,3.7,1.7,3.7,3.7v8.3H20.3z"/>
+	</g>
+	<rect x="0" y="43.3" fill="#ADB3BA" width="48" height="4.7"/>
+	<g>
+		<rect x="7.4" y="18.2" fill="#8AD7F8" width="8.1" height="7.7"/>
+		<rect x="19.9" y="18.2" fill="#8AD7F8" width="8.1" height="7.7"/>
+		<rect x="32.5" y="18.2" fill="#8AD7F8" width="8.1" height="7.7"/>
+		<rect x="7.4" y="30.7" fill="#8AD7F8" width="8.1" height="7.7"/>
+		<rect x="32.5" y="30.7" fill="#8AD7F8" width="8.1" height="7.7"/>
+	</g>
+	<polygon fill="#F3705A" points="44.5,0 47.9,13.2 0.1,13.2 3.5,0 	"/>
+</g>
+</svg>

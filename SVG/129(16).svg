@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<path fill="#F2F2F2" d="M42.9,39.9H5.1c-1.1,0-2-0.9-2-2v-3.4h41.8v3.4C44.9,39,44,39.9,42.9,39.9z"/>
+	<path fill="#40596B" d="M44.9,34.5H3.1V8.9c0-1.1,0.9-2,2-2h37.8c1.1,0,2,0.9,2,2V34.5z"/>
+	<rect x="5.1" y="8.9" fill="#FFFFFF" width="37.8" height="23.6"/>
+	<polygon fill="#CDD6E0" points="32,44.4 16,44.4 18.5,39.9 29.5,39.9 	"/>
+	<path fill="#F2F2F2" d="M37.1,48H10.9v0c0-2,1.6-3.6,3.6-3.6h19C35.5,44.4,37.1,46,37.1,48L37.1,48z"/>
+	<circle fill="#CDD6E0" cx="24" cy="37.2" r="0.9"/>
+	<g>
+		<rect x="6.3" y="3.2" fill="#F2F2F2" width="23.4" height="29.2"/>
+		<path fill="#FF7058" d="M29.7,3.2H6.3V1c0-0.6,0.4-1,1-1h21.4c0.6,0,1,0.4,1,1V3.2z"/>
+		<g>
+			<circle fill="#FFD15C" cx="8.9" cy="1.6" r="0.6"/>
+			<circle fill="#FFD15C" cx="11.3" cy="1.6" r="0.6"/>
+		</g>
+		<path fill="#F1543F" d="M20.2,2.2h7.9c0.3,0,0.6-0.3,0.6-0.6v0c0-0.3-0.3-0.6-0.6-0.6h-7.9c-0.3,0-0.6,0.3-0.6,0.6v0
+			C19.6,2,19.9,2.2,20.2,2.2z"/>
+		<rect x="7.8" y="6.2" fill="#FFD15C" width="20.4" height="5.4"/>
+		<rect x="7.8" y="14.5" fill="#CDD6E0" width="9.2" height="1.5"/>
+		<rect x="7.8" y="19" fill="#CDD6E0" width="9.2" height="1.5"/>
+		<rect x="19" y="14.5" fill="#CDD6E0" width="9.2" height="1.5"/>
+		<rect x="19" y="19" fill="#CDD6E0" width="9.2" height="1.5"/>
+		<g>
+			<rect x="7.8" y="23.4" fill="#F8B64C" width="5.5" height="5.4"/>
+			<rect x="15.2" y="23.4" fill="#F8B64C" width="5.5" height="5.4"/>
+			<rect x="22.7" y="23.4" fill="#F8B64C" width="5.5" height="5.4"/>
+		</g>
+	</g>
+	<g>
+		<rect x="30.7" y="3.8" fill="#FF7058" width="6.1" height="28.7"/>
+		<g>
+			<rect x="30.7" y="5.2" fill="#F2F2F2" width="1.7" height="0.3"/>
+			<rect x="30.7" y="8" fill="#F2F2F2" width="1.7" height="0.3"/>
+			<rect x="30.7" y="10.9" fill="#F2F2F2" width="1.7" height="0.3"/>
+			<rect x="30.7" y="13.7" fill="#F2F2F2" width="1.7" height="0.3"/>
+			<rect x="30.7" y="16.6" fill="#F2F2F2" width="1.7" height="0.3"/>
+			<rect x="30.7" y="19.4" fill="#F2F2F2" width="1.7" height="0.3"/>
+			<rect x="30.7" y="22.2" fill="#F2F2F2" width="1.7" height="0.3"/>
+			<rect x="30.7" y="25.1" fill="#F2F2F2" width="1.7" height="0.3"/>
+			<rect x="30.7" y="27.9" fill="#F2F2F2" width="1.7" height="0.3"/>
+			<rect x="30.7" y="30.8" fill="#F2F2F2" width="1.7" height="0.3"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#54C0EB" d="M39.8,6.9c-0.4,0-0.7,0.3-0.7,0.7v22h1.3v-22C40.5,7.2,40.2,6.9,39.8,6.9z"/>
+		<path fill="#CDD6E0" d="M38.5,6.9c-0.4,0-0.7,0.3-0.7,0.7l0,22h1.3v-22C39.2,7.2,38.9,6.9,38.5,6.9z"/>
+		<path fill="#CDD6E0" d="M41.2,6.9c-0.4,0-0.7,0.3-0.7,0.7v22h1.3v-22C41.9,7.2,41.6,6.9,41.2,6.9z"/>
+		<path fill="#FFD15C" d="M41.8,7.3L41.8,7.3c-0.1-0.2-0.3-0.4-0.6-0.4c-0.4,0-0.7,0.3-0.7,0.7c0-0.4-0.3-0.7-0.7-0.7
+			c-0.4,0-0.7,0.3-0.7,0.7c0-0.4-0.3-0.7-0.7-0.7c-0.3,0-0.5,0.2-0.6,0.4h0l1.2-2.1l0.8-1.4l0.8,1.4L41.8,7.3z"/>
+		<polygon fill="#334A5E" points="40.6,5.2 39.1,5.2 39.8,3.8 		"/>
+		<rect x="37.8" y="29.6" fill="#FFD15C" width="4" height="1.1"/>
+		<path fill="#FF7058" d="M38.5,32.5l2.7,0c0.4,0,0.7-0.3,0.7-0.7v-1.1l-4,0v1.1C37.8,32.2,38.1,32.5,38.5,32.5z"/>
+	</g>
+	<polygon fill="#BDCCDB" points="30.3,41.4 17.7,41.4 18.5,39.9 29.5,39.9 	"/>
+</g>
+</svg>

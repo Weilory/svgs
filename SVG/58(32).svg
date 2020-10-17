@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#FF7058" d="M48,11.2c0-3.1-2.6-5.6-5.7-5.6l0,2.9c1.5,0,2.8,1.2,2.8,2.8l0,7.3c0,1.6,1.3,2.9,2.9,2.9L48,11.2z"/>
+		<rect x="32.9" y="34.2" fill="#F2F2F2" width="10.7" height="1.3"/>
+		<rect x="32.9" y="9.1" fill="#F2F2F2" width="10.7" height="4.1"/>
+		<rect x="32.9" y="13.2" fill="#40596B" width="10.7" height="21"/>
+		<polygon fill="#334A5E" points="32.9,35.5 32.9,35.5 36.4,43.9 40.1,43.9 43.6,35.5 43.6,35.5 		"/>
+		<path fill="#40596B" d="M38.3,0c-2.9,0-5.3,2.4-5.3,5.3v3.8h10.7V5.3C43.6,2.4,41.2,0,38.3,0z"/>
+		<polygon fill="#CDD6E0" points="36.4,43.9 40.1,43.9 38.3,48 		"/>
+	</g>
+	<g>
+		<polygon fill="#F8B64C" points="7.6,12.3 15.3,12.3 10.5,4.6 7.6,4.6 		"/>
+		<polygon fill="#FFD15C" points="7.6,4.6 4.8,4.6 0,12.3 7.6,12.3 		"/>
+		<rect x="0" y="12.3" fill="#84DBFF" width="7.6" height="26.2"/>
+		<rect x="7.6" y="12.3" fill="#54C0EB" width="7.6" height="26.2"/>
+		<path fill="#FF7058" d="M0,40.7V46c0,1.1,0.9,2,2,2h5.6v-7.3H0z"/>
+		<path fill="#F1543F" d="M7.6,40.7V48h5.6c1.1,0,2-0.9,2-2v-5.3H7.6z"/>
+		<rect x="0" y="38.5" fill="#F2F2F2" width="7.6" height="2.2"/>
+		<rect x="7.6" y="38.5" fill="#CDD6E0" width="7.6" height="2.2"/>
+		<polygon fill="#40596B" points="10.5,4.6 7.6,0 10.5,4.6 		"/>
+		<polygon fill="#40596B" points="4.8,4.6 4.8,4.6 7.6,0 		"/>
+		<polygon fill="#334A5E" points="10.5,4.6 7.6,0 7.6,4.6 		"/>
+		<polygon fill="#40596B" points="7.6,0 4.8,4.6 7.6,4.6 		"/>
+	</g>
+	<g>
+		<path fill="#FFD15C" d="M29.6,0H18.4c-1.1,0-2,0.9-2,2v44c0,1.1,0.9,2,2,2h11.3c1.1,0,2-0.9,2-2V2C31.6,0.9,30.7,0,29.6,0z
+			 M24,5.3c-1.1,0-1.9-0.9-1.9-1.9c0-1.1,0.9-1.9,1.9-1.9c1.1,0,1.9,0.9,1.9,1.9C25.9,4.5,25.1,5.3,24,5.3z"/>
+		<path fill="#F8B64C" d="M21.6,0h-3.2c-1.1,0-2,0.9-2,2v44c0,1.1,0.9,2,2,2h3.2V0z"/>
+		<g>
+			<rect x="16.4" y="18.3" fill="#FFD15C" width="2.2" height="0.4"/>
+			<rect x="16.4" y="22" fill="#FFD15C" width="3.6" height="0.4"/>
+			<rect x="16.4" y="25.8" fill="#FFD15C" width="2.2" height="0.4"/>
+			<rect x="16.4" y="7" fill="#FFD15C" width="3.6" height="0.4"/>
+			<rect x="16.4" y="14.5" fill="#FFD15C" width="3.6" height="0.4"/>
+			<rect x="16.4" y="10.7" fill="#FFD15C" width="2.2" height="0.4"/>
+			<rect x="16.4" y="37.1" fill="#FFD15C" width="3.6" height="0.4"/>
+			<rect x="16.4" y="40.9" fill="#FFD15C" width="2.2" height="0.4"/>
+			<rect x="16.4" y="44.6" fill="#FFD15C" width="3.6" height="0.4"/>
+			<rect x="16.4" y="33.3" fill="#FFD15C" width="2.2" height="0.4"/>
+			<rect x="16.4" y="29.6" fill="#FFD15C" width="3.6" height="0.4"/>
+		</g>
+	</g>
+</g>
+</svg>

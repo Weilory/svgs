@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<rect x="17.5" y="7.8" transform="matrix(0.866 0.5 -0.5 0.866 12.3512 -9.7378)" fill="#F2F2F2" width="13.6" height="20.7"/>
+	<rect x="13.3" y="26.8" transform="matrix(0.866 0.5 -0.5 0.866 17.001 -5.0869)" fill="#CDD6E0" width="9.4" height="4.7"/>
+	<rect x="26.4" y="3.4" transform="matrix(0.866 0.5 -0.5 0.866 7.4298 -14.66)" fill="#CDD6E0" width="9.4" height="6.2"/>
+	<path fill="#FF7058" d="M27.7,45.8v0.8h6.2C38.3,42.7,41,37,41,30.7c0-6.3-2.7-11.9-7-15.8l-6.2,10.7c3.8,1.8,6.4,5.6,6.4,10
+		C34.3,40.2,31.6,44.1,27.7,45.8z"/>
+	<circle fill="#40596B" cx="31.1" cy="20.4" r="2.5"/>
+	<circle fill="#FFFFFF" cx="31.1" cy="20.4" r="1.1"/>
+	<g>
+		<path fill="#ACB3BA" d="M20,46.8c-4.3,0-7.7-3.5-7.7-7.7l3,0v0c0,2.6,2.1,4.7,4.7,4.7V46.8z"/>
+	</g>
+	<path fill="#40596B" d="M33.7,42.7H21c-1.1,0-2,0.9-2,2V48h16.7v-3.3C35.7,43.6,34.8,42.7,33.7,42.7z"/>
+	<path fill="#C3D0DB" d="M28.5,1.5l-1.3,2.2c0,0,0,0,0,0l8.1,4.7c0,0,0,0,0,0l1.3-2.2L28.5,1.5z"/>
+	<path fill="#40596B" d="M37.4,4.9l-8.1-4.7c-0.7-0.4-1.7-0.2-2.1,0.6c-0.4,0.7-0.2,1.7,0.6,2.1l8.1,4.7C36.6,7.9,37.6,7.7,38,7
+		C38.4,6.2,38.1,5.3,37.4,4.9z"/>
+	<rect x="13.8" y="27" transform="matrix(-0.866 -0.5 0.5 -0.866 20.4553 61.9792)" fill="#C3D0DB" width="9.4" height="2.5"/>
+	<path fill="#A0ABB5" d="M15.2,39.1L15.2,39.1h-3c0,0.9,0.2,1.7,0.4,2.5H16C15.5,40.9,15.2,40,15.2,39.1z"/>
+	<path fill="#F2F2F2" d="M19,37.6H8.5c-0.8,0-1.5,0.7-1.5,1.5c0,0.8,0.7,1.5,1.5,1.5H19c0.8,0,1.5-0.7,1.5-1.5v0
+		C20.5,38.3,19.8,37.6,19,37.6z"/>
+	<path fill="#40596B" d="M25.9,29.3L14,22.4c-0.7-0.4-1.7-0.2-2.1,0.6c-0.4,0.7-0.2,1.7,0.6,2.1l11.9,6.9c0.7,0.4,1.7,0.2,2.1-0.6
+		C26.9,30.6,26.6,29.7,25.9,29.3z"/>
+</g>
+</svg>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<path fill="#F3705B" d="M30.6,0c-9.6,0-17.4,7.8-17.4,17.4S30.6,48,30.6,48S48,27.1,48,17.4S40.2,0,30.6,0z"/>
+			<circle fill="#E8EAE9" cx="30.6" cy="17.4" r="10.1"/>
+		</g>
+		<g>
+			<path fill="#435B6C" d="M0,39.2V48h28.6v-8.8C28.6,32.5,0,32.5,0,39.2z"/>
+			<polygon fill="#F6B64C" points="10.9,27.9 10.9,37.8 14.3,48 17.8,37.4 17.8,27.9 			"/>
+			<g>
+				<polyline fill="#FFFFFF" points="14.3,37 17.8,37 14.3,48 10.8,37.3 				"/>
+			</g>
+			<g>
+				<g>
+					<polygon fill="#F15741" points="15.3,40.2 16.4,39.1 14.3,37 12.2,39.1 13.3,40.2 					"/>
+				</g>
+				<g>
+					<polygon fill="#F3705B" points="13.3,40.2 12.2,45 14.3,48 16.4,45 15.3,40.2 					"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					
+						<ellipse transform="matrix(0.1778 -0.9841 0.9841 0.1778 -8.6839 43.0419)" fill="#FFD15D" cx="21.4" cy="26.7" rx="2.4" ry="1.4"/>
+					
+						<ellipse transform="matrix(0.9838 -0.1792 0.1792 0.9838 -4.6665 1.7458)" fill="#FFD15D" cx="7.3" cy="26.7" rx="1.5" ry="2.4"/>
+				</g>
+				<path fill="#435B6C" d="M14.3,15.2c-4.5,0-8.1,2.9-8,7.7c0.1,4.7,3.7,8.9,8,8.9c4.3,0,7.9-4.2,8-8.9
+					C22.4,18.1,18.8,15.2,14.3,15.2z"/>
+				<path fill="#FFD15D" d="M21.4,23.8c-0.1-0.6-0.2-1.1-0.4-1.6c-0.2,0-0.5,0-0.7,0c-2.1,0-3.6-0.7-4.7-1.7c-1.4,1.7-3.7,3-6.9,3
+					c-0.5,0-1,0-1.4-0.1c0,0.1,0,0.2-0.1,0.3c-0.5,3.9,2.5,10.1,7.1,10.1C18.9,33.9,21.9,27.8,21.4,23.8z"/>
+			</g>
+			<g>
+				<g>
+					<g>
+						<polygon fill="#F3F3F3" points="17.8,32.9 14.3,37 16.9,39.9 19.6,33.9 						"/>
+					</g>
+					<polygon fill="#354B5E" points="21.9,34.9 18.7,33.4 14.3,48 21.9,38.7 19.4,37 					"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<g>
+						<polygon fill="#F3F3F3" points="10.9,32.9 14.3,37 11.7,39.9 9,33.9 						"/>
+					</g>
+					<polygon fill="#354B5E" points="14.3,48 10,33.4 6.8,34.9 9.2,37 6.8,38.7 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
